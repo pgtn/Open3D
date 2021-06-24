@@ -34,7 +34,7 @@ endmacro(EXAMPLE_CPP)
 
 
 if (BUILD_GUI)
-    EXAMPLE_CPP(Draw                  ${CMAKE_PROJECT_NAME})
+    EXAMPLE_CPP(iXsPoint                  ${CMAKE_PROJECT_NAME})
 endif()
 
 
